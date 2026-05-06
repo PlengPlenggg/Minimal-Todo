@@ -1,0 +1,4 @@
+robotframework==7.0
+selenium==4.15.2
+appium-python-client==3.1.0
+Pillow==10.0.0
